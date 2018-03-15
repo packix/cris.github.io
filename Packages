@@ -318,5 +318,5 @@ Depends: firmware (>= 10.0), mobilesubstrate, com.a3tweaks.flipswitch
 MD5sum: 98d964393e45d04f3aa92468fd33ce3c
 SHA1: a7d54a6a0e5ea4c0cb8b49d59076d58c893c698f
 SHA256: 6c2ca8203b1198f4b9f5412cece18ac81f8179db83dce5abef879a7ffb242d89
-Size: 115276
+Size: 690968
 
